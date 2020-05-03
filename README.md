@@ -1,2 +1,2 @@
 # AI-for-Medicine
-ML folders and data for Medicind
+ML folders and data for Medicine
